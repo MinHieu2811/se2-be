@@ -43,9 +43,6 @@ public class CustomerVoucher {
                 }
             }
         }
-        if (codes == null) {
-            throw new Exception("Codes cannot be null");
-        }
     }
 
     @Override

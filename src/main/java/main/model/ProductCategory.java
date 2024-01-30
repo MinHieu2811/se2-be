@@ -1,6 +1,4 @@
 package main.model;
-
-import java.util.Objects;
 import java.util.UUID;
 
 public class ProductCategory {

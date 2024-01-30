@@ -3,7 +3,6 @@ package main.controller.customer_profile;
 import main.controller.Response;
 import main.model.CustomerProfile;
 import main.service.customer_profile.CreateCustomerProfileService;
-import main.service.product.CreateProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

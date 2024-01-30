@@ -2,7 +2,6 @@ package main.model;
 
 
 import com.fasterxml.jackson.annotation.JsonProperty;
-import main.repository.customer_profile.model.CustomerProfileRepoModel;
 
 import java.util.UUID;
 

@@ -1,6 +1,5 @@
 package main.service.voucher;
 
-import main.model.CustomerVoucher;
 import main.model.Voucher;
 import main.repository.voucher.CustomerVoucherRepository;
 import main.repository.voucher.VoucherRepository;

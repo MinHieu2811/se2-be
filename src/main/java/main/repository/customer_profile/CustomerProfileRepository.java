@@ -1,9 +1,7 @@
 package main.repository.customer_profile;
 
 import main.model.CustomerProfile;
-import main.model.Product;
 import main.repository.customer_profile.model.CustomerProfileRepoModel;
-import main.repository.product.model.ProductRepoModel;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 

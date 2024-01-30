@@ -4,8 +4,6 @@ import com.fasterxml.jackson.annotation.JsonBackReference;
 import jakarta.persistence.*;
 import main.repository.customer_auth.model.CustomerAuthRepoModel;
 
-import java.util.List;
-
 @Entity
 @Table(name = "customer_profile")
 public class CustomerProfileRepoModel {

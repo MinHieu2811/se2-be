@@ -2,7 +2,6 @@ package main.repository.customer_auth;
 
 import main.model.CustomerAuth;
 import main.model.CustomerProfile;
-import main.model.Product;
 import main.repository.customer_auth.model.CustomerAuthRepoModel;
 import main.repository.customer_profile.model.CustomerProfileRepoModel;
 import org.springframework.beans.factory.annotation.Autowired;

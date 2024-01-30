@@ -1,10 +1,7 @@
 package main.repository.category;
 
 import main.model.Category;
-import main.model.Product;
-import main.model.ProductCategory;
 import main.repository.category.model.CategoryRepoModel;
-import main.repository.category.model.ProductCategoryRepoModel;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.dao.EmptyResultDataAccessException;
 import org.springframework.stereotype.Component;

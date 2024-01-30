@@ -2,7 +2,6 @@ package main.model;
 
 import java.util.Objects;
 import java.util.UUID;
-import java.util.regex.Pattern;
 
 public class CustomerProfile {
     private UUID id;

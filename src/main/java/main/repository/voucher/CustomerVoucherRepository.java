@@ -1,6 +1,5 @@
 package main.repository.voucher;
 
-import com.fasterxml.jackson.core.JsonProcessingException;
 import main.model.CustomerVoucher;
 import main.repository.voucher.model.CustomerVoucherRepoModel;
 import org.springframework.beans.factory.annotation.Autowired;

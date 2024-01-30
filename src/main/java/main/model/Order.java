@@ -111,15 +111,4 @@ public class Order {
         this.voucherValue = voucherValue;
     }
 
-
-
-    private static void validateId(String id) throws Exception {
-        if (id == null || id.isEmpty()) {
-            throw new Exception("Id must not be null or empty");
-        }
-        if (!id.matches("[0-9]+") || id.length() != 13) {
-            throw new Exception("Id must contain number only and have length = 13");
-        }
-    }
-
 }

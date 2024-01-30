@@ -2,7 +2,6 @@ package main.repository.customer_auth.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import jakarta.persistence.*;
-import main.model.CustomerProfile;
 import main.repository.customer_profile.model.CustomerProfileRepoModel;
 
 import java.util.UUID;
@@ -42,7 +41,6 @@ public class CustomerAuthRepoModel {
     }
 
     public CustomerAuthRepoModel() {
-        
     }
 
 
